@@ -11,7 +11,7 @@
 [![Followers](https://img.shields.io/github/followers/YITMC-UEMcraft?style=flat-square&color=2f81f7&label=Followers)](https://github.com/orgs/YITMC-UEMcraft/followers)
 [![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FYITMC-UEMcraft&query=%24.public_repos&label=Repositories&style=flat-square&color=2f81f7)](https://github.com/orgs/YITMC-UEMcraft/repositories)
 [![Website](https://img.shields.io/badge/YITMC%20%E5%AE%98%E7%BD%91-yitmc.cn-2f81f7?style=flat-square&logo=googlechrome&logoColor=white)](https://yitmc.cn/)
-[![UEM](https://img.shields.io/badge/UEM%20%E5%AE%98%E7%BD%91-uemcraft.cn-2f81f7?style=flat-square&logo=googlechrome&logoColor=white)](https://uemcraft.cn/)
+[![UEMcraft](https://img.shields.io/badge/UEMcraft%20%E5%AE%98%E7%BD%91-uemcraft.cn-2f81f7?style=flat-square&logo=googlechrome&logoColor=white)](https://uemcraft.cn/)
 [![Minecraft](https://img.shields.io/badge/Minecraft-Java%20Edition-62B47A?style=flat-square&logo=minecraft&logoColor=white)](https://www.minecraft.net/)
 
 两所学校，一群玩家，一个可以一起建造的世界。
@@ -69,7 +69,7 @@
 ## 联系我们
 
 - 燕京理工学院 MC 玩家创作协会：<https://yitmc.cn/>
-- 应急管理大学 MC 同好会：<https://uemcraft.cn/>
+- UEMcraft 官网（应急管理大学 MC 同好会）：<https://uemcraft.cn/>
 - 项目问题：直接在对应仓库提交 Issue
 - 组织事务：通过官网或社团公开渠道联系
 

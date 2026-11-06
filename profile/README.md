@@ -11,6 +11,7 @@
 [![Followers](https://img.shields.io/github/followers/YITMC-UEMcraft?style=flat-square&color=2f81f7&label=Followers)](https://github.com/orgs/YITMC-UEMcraft/followers)
 [![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FYITMC-UEMcraft&query=%24.public_repos&label=Repositories&style=flat-square&color=2f81f7)](https://github.com/orgs/YITMC-UEMcraft/repositories)
 [![Website](https://img.shields.io/badge/YITMC%20%E5%AE%98%E7%BD%91-yitmc.cn-2f81f7?style=flat-square&logo=googlechrome&logoColor=white)](https://yitmc.cn/)
+[![UEM](https://img.shields.io/badge/UEM%20%E5%AE%98%E7%BD%91-uemcraft.cn-2f81f7?style=flat-square&logo=googlechrome&logoColor=white)](https://uemcraft.cn/)
 [![Minecraft](https://img.shields.io/badge/Minecraft-Java%20Edition-62B47A?style=flat-square&logo=minecraft&logoColor=white)](https://www.minecraft.net/)
 
 两所学校，一群玩家，一个可以一起建造的世界。
@@ -24,9 +25,9 @@
 > 本组织由燕京理工学院 MC 玩家创作协会与应急管理大学 MC 同好会共同维护，用于社团项目协作、代码共享与创作交流。
 
 - **燕京理工学院 MC 玩家创作协会（YITMC）**：燕京理工学院注册学生社团，2024 年成立，围绕校园复原、服务器与玩家社区开展活动。
-- **应急管理大学 MC 同好会（UEM）**：应急管理大学的 Minecraft 玩家社团，参与联合皮肤站与跨校创作交流。
+- **应急管理大学 MC 同好会（UEM）**：挂靠在应急管理大学注册社团「电竞社」下的 Minecraft 玩家组织（非独立注册社团），参与联合皮肤站与跨校创作交流。
 
-两个社团因 Minecraft 相识：一起维护代码，一起组织活动，也一起把各自校园的记忆建进方块里。
+两个学校的玩家因 Minecraft 相识：一起维护代码，一起组织活动，也一起把各自校园的记忆建进方块里。
 
 ## 我们在做什么
 
@@ -67,8 +68,8 @@
 
 ## 联系我们
 
-- 燕京理工学院MC玩家创作协会官网：<https://yitmc.cn/>
-- 应急管理大学MC同好会官网：<https://uemcraft.cn/>
+- 燕京理工学院 MC 玩家创作协会：<https://yitmc.cn/>
+- 应急管理大学 MC 同好会：<https://uemcraft.cn/>
 - 项目问题：直接在对应仓库提交 Issue
 - 组织事务：通过官网或社团公开渠道联系
 

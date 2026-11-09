@@ -25,7 +25,7 @@
 > 本组织由燕京理工学院 MC 玩家创作协会与应急管理大学 MC 同好会共同维护，用于社团项目协作、代码共享与创作交流。
 
 - **燕京理工学院 MC 玩家创作协会（YITMC）**：燕京理工学院注册学生社团，2024 年成立，围绕校园复原、服务器与玩家社区开展活动。
-- **应急管理大学 MC 同好会（UEM）**：挂靠在应急管理大学注册社团「电竞社」下的 Minecraft 玩家组织（非独立注册社团），参与联合皮肤站、同好会官网与跨校创作交流。
+- **应急管理大学 MC 同好会（UEM）**：挂靠在应急管理大学注册社团「电竞社」下的 Minecraft 玩家组织（非独立注册社团），参与联合皮肤站与跨校创作交流。
 
 两个学校的玩家因 Minecraft 相识：一起维护代码，一起组织活动，也一起把各自校园的记忆建进方块里。
 
@@ -41,16 +41,15 @@
 
 | 项目 | 简介 | 技术栈 |
 | --- | --- | --- |
-| [YIT-restoration](https://github.com/YITMC-UEMcraft/YIT-restoration) | 燕京理工学院校园复原工程：整合包、配置与世界存档 | Minecraft 1.20.1 · Fabric · Modrinth |
-| [YIT-UEM-Skin](https://github.com/YITMC-UEMcraft/YIT-UEM-Skin) | 燕京理工学院 × 应急管理大学联合皮肤站，支持双校学生身份验证与 Yggdrasil 外置登录 | PHP · Laravel · Blessing Skin |
+| [YIT-restoration](https://github.com/YITMC-UEMcraft/YIT-restoration) | 燕京理工学院校园复原工程（与校全媒体中心官方合作）：整合包、配置与世界存档 | Minecraft 1.20.1 · Fabric · Modrinth |
+| [YIT-UEM-Skin](https://github.com/YITMC-UEMcraft/YIT-UEM-Skin) | 燕理 × 应急管理大学联合皮肤站，支持双校学生身份验证与 Yggdrasil 外置登录 | PHP · Laravel · Blessing Skin |
 | [yitmc-website](https://github.com/YITMC-UEMcraft/yitmc-website) | 燕京理工学院 MC 玩家创作协会官网，像素体素风格 | Vue 3 · Vite · TypeScript · Tailwind CSS |
-| [uemcraft-website](https://github.com/YITMC-UEMcraft/uemcraft-website) | UEMcraft 官方网站（应急管理大学 MC 同好会），含新闻、活动、作品与留言墙 | HTML5 · CSS3 · Vanilla JS · PHP · SQLite/MySQL |
 
 ## 技术栈
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,php,html,css,javascript,typescript,vue,vite,tailwind,mysql,sqlite,nginx,docker,linux,git&perline=15" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=java,php,vue,typescript,javascript,docker,linux,mysql,nginx,tailwind,vite,git&perline=12" alt="Tech Stack" />
 
 </div>
 
@@ -64,7 +63,7 @@
 
 各仓库的原创内容归对应社团集体所有，具体授权以仓库内的 `LICENSE` / `NOTICE` 为准。
 
-- 校园复原工程的建筑、存档与文档仅限非商业使用（CC BY-NC-SA 4.0），代码与配置采用 PolyForm Noncommercial 1.0.0；
+- 校园复原工程的建筑、存档与文档由社团与燕京理工学院全媒体中心共有，仅限非商业使用（CC BY-NC-SA 4.0），允许非商业二次创作；代码与配置采用 PolyForm Noncommercial 1.0.0；
 - 皮肤站与官网按其仓库声明的开源许可证授权。
 
 ## 联系我们

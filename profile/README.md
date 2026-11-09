@@ -42,7 +42,7 @@
 | 项目 | 简介 | 技术栈 |
 | --- | --- | --- |
 | [YIT-restoration](https://github.com/YITMC-UEMcraft/YIT-restoration) | 燕京理工学院校园复原工程：整合包、配置与世界存档 | Minecraft 1.20.1 · Fabric · Modrinth |
-| [YIT-UEM-Skin](https://github.com/YITMC-UEMcraft/YIT-UEM-Skin) | 燕理 × 应急管理大学联合皮肤站，支持双校学生身份验证与 Yggdrasil 外置登录 | PHP · Laravel · Blessing Skin |
+| [YIT-UEM-Skin](https://github.com/YITMC-UEMcraft/YIT-UEM-Skin) | 燕京理工学院 × 应急管理大学联合皮肤站，支持双校学生身份验证与 Yggdrasil 外置登录 | PHP · Laravel · Blessing Skin |
 | [yitmc-website](https://github.com/YITMC-UEMcraft/yitmc-website) | 燕京理工学院 MC 玩家创作协会官网，像素体素风格 | Vue 3 · Vite · TypeScript · Tailwind CSS |
 | [uemcraft-website](https://github.com/YITMC-UEMcraft/uemcraft-website) | UEMcraft 官方网站（应急管理大学 MC 同好会），含新闻、活动、作品与留言墙 | HTML5 · CSS3 · Vanilla JS · PHP · SQLite/MySQL |
 
